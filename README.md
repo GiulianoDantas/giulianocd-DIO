@@ -2,8 +2,10 @@
 Sou Giuliano Dantas, analista de redes e infra.<br>Estou procurando novas oportunidades de emprego e <br>de novos desafios para crescimento como <br>profissional de tecnologia.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giuliano-dantas-5120282  b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giulianocdantas@hotmail.com) 
+🌐 **Socials:**
+
+<a href="https://linkedin.com/in/giuliano-dantas-5120282b2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:giulianocdantas@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
